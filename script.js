@@ -1,7 +1,8 @@
+var a = 20;
+var b = 10;
+var sum = a+b;
+var sub = a-b;
+var mul = a*b;
+var div = a/b;
 
-var myfirstVariable = 20,
-    anotherVariable = "Another Variable",
-    lastVariable;
-    lastVariable = myfirstVariable ;
-console.log(lastVariable);
-console.log(anotherVariable);
+document.write("Sum is = "+sum+" Sub is = "+sub+" mul is = "+mul+" div is = "+div);

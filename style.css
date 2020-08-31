@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 25px;
+}
+
+body{
+    background-color: #ddd;
+    color: #444;
+}
+.container{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+}
+.row{
+    display: block;
+    ding: 0 1rem;
+}
+.coloum-1{
+    margin-top: 50px;
+    text-align: center;
+}
+.title{
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+.slogan{}
+.coloumn-2{
+    border: 1px solid #444;
+    width: 100%;
+    min-height: 400px;
+    margin-top: 1rem;
+    padding: 1rem;
+}
